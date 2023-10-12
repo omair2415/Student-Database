@@ -1,2 +1,1 @@
-# Student-Database
-A simple database made with python (users can be input and retrieved)
+This program allows the user to manage a student database. The user can add students, add/update courses and grades, print the report cards for all students, print the classes and grades, and delete a student from the database. The data is stored in a text file and is read and written when necessary.
